@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjThreadingExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a79c1f650122f6a1c90818ced50c5d6651ed174a")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjThreadingExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjThreadingExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
